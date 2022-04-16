@@ -6,5 +6,6 @@ public class GitTest {
         System.out.println("hello 2222");
         System.out.println("hello 3333");
         System.out.println("game branch");
+        System.out.println("game test");
     }
 }
